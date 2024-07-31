@@ -6,6 +6,10 @@
 📷 Screenshots
 </h2>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/921f5058-28c1-41ba-85ad-a0607b69b994" width="700" />
+</p>
+
 <h2>
 ❓ About
 </h2>
