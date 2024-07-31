@@ -52,7 +52,7 @@ const Footer: React.FC = () => {
         <div className="grid gap-y-6 md:grid-cols-2 lg:grid-cols-4 pt-5 md:pt-10">
           <section>
             <h6 className="text-base font-bold text-tertiary mb-4">
-              Pegasus'u indir!
+              Pegasus&apos;u indir!
             </h6>
             <nav className="grid gap-2 md:gap-4 grid-cols-2 md:grid-cols-1">
               <Link
