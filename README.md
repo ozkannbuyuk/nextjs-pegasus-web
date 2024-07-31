@@ -10,15 +10,21 @@
 ❓ About
 </h2>
 
-•	Objective: Develop a front-end application for hotel reservation management.
+## Objective
 
-•	Task: Create the frontend interface using React. Implement features for browsing hotels, adding to favorites, and viewing detailed information.
-o	Key Features:
-▪	Hotel List Component: Fetch and display hotel information from a JSON source.
-▪	Favorites List: Add hotels to favorites and manage them.
-▪	Search and Filtering: Implement search and location-based filtering.
-▪	Hotel Detail Page: Provide detailed information for each hotel.
-▪	Design: Responsive design with animations and transition effects using Tailwind CSS.
+Develop a front-end application for hotel reservation management.
+
+## Task
+
+Create the frontend interface using React. Implement features for browsing hotels, adding to favorites, and viewing detailed information.
+
+### Key Features
+
+- **Hotel List Component:** Fetch and display hotel information from a JSON source.
+- **Favorites List:** Add hotels to favorites and manage them.
+- **Search and Filtering:** Implement search and location-based filtering.
+- **Hotel Detail Page:** Provide detailed information for each hotel.
+- **Design:** Responsive design with animations and transition effects using Tailwind CSS.
 
 <h2>
 <br />
