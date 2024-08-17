@@ -7,7 +7,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/921f5058-28c1-41ba-85ad-a0607b69b994" width="700" />
+  <img src="https://github.com/user-attachments/assets/5d4c60f8-7730-45b5-8650-cdb8020fc011" width="700" />
 </p>
 
 <h2>
