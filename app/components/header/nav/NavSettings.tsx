@@ -1,5 +1,6 @@
 import React from "react";
-import { FaFacebook, FaInstagram, FaLinkedin, FaTwitter } from "react-icons/fa";
+import { FaFacebook, FaInstagram, FaLinkedin } from "react-icons/fa";
+import { FaXTwitter } from "react-icons/fa6";
 
 const NavSettings: React.FC = () => {
   const social = [
@@ -20,8 +21,8 @@ const NavSettings: React.FC = () => {
     },
     {
       href: "https://x.com/ucurbenipegasus",
-      title: "Pegasus - Twitter",
-      icon: <FaTwitter />,
+      title: "Pegasus - X",
+      icon: <FaXTwitter />,
     },
   ];
   return (

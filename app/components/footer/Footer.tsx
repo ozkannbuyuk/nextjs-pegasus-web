@@ -4,7 +4,8 @@ import Image from "next/image";
 
 import Menu from "../ui/Menu";
 
-import { FaFacebook, FaInstagram, FaLinkedin, FaTwitter } from "react-icons/fa";
+import { FaFacebook, FaInstagram, FaLinkedin } from "react-icons/fa";
+import { FaXTwitter } from "react-icons/fa6";
 
 const Footer: React.FC = () => {
   const menus = [
@@ -129,10 +130,10 @@ const Footer: React.FC = () => {
             <Link
               href="https://x.com/ucurbenipegasus"
               target="_blank"
-              title="Pegasus - Twitter"
+              title="Pegasus - X"
               className="w-8 h-8 rounded-lg text-gray-500 transition-colors hover:bg-primary-hover hover:bg-opacity-10 hover:text-primary-hover flex items-center justify-center"
             >
-              <FaTwitter size={18} />
+              <FaXTwitter size={18} />
             </Link>
           </nav>
         </div>
