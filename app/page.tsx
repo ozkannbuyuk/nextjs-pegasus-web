@@ -26,7 +26,6 @@ const Home = () => {
   const hotelsResponse = useSelector(
     (state: RootState) => state.hotels.hotelsResponse
   );
-  const favorites = useSelector((state: RootState) => state.hotels.favorites);
 
   const selectedCity = useSelector(
     (state: RootState) => state.filter.selectedCity
